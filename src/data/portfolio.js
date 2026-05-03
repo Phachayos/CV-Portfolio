@@ -109,5 +109,5 @@ export const education = [
 export const contact = {
   email: 'Phachayosba@email.com',
   github: 'https://github.com/Phachayos',
-  linkedin: 'https://linkedin.com/in/phachayos',
+  linkedin: 'https://www.linkedin.com/in/phachayos-badklang-01540a366/',
 };
